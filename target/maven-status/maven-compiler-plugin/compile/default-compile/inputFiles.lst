@@ -1,0 +1,17 @@
+/Users/GXA/project/Campus-Gym-Pro/src/main/java/com/campusgym/pro/config/RedisConfig.java
+/Users/GXA/project/Campus-Gym-Pro/src/main/java/com/campusgym/pro/entity/Reservation.java
+/Users/GXA/project/Campus-Gym-Pro/src/main/java/com/campusgym/pro/mapper/SlotMapper.java
+/Users/GXA/project/Campus-Gym-Pro/src/main/java/com/campusgym/pro/dto/ReservationResult.java
+/Users/GXA/project/Campus-Gym-Pro/src/main/java/com/campusgym/pro/CampusGymProApplication.java
+/Users/GXA/project/Campus-Gym-Pro/src/main/java/com/campusgym/pro/controller/ReservationController.java
+/Users/GXA/project/Campus-Gym-Pro/src/main/java/com/campusgym/pro/service/SlotService.java
+/Users/GXA/project/Campus-Gym-Pro/src/main/java/com/campusgym/pro/config/WebConfig.java
+/Users/GXA/project/Campus-Gym-Pro/src/main/java/com/campusgym/pro/dto/ReservationRequest.java
+/Users/GXA/project/Campus-Gym-Pro/src/main/java/com/campusgym/pro/entity/Stadium.java
+/Users/GXA/project/Campus-Gym-Pro/src/main/java/com/campusgym/pro/dto/ReservationDetailVO.java
+/Users/GXA/project/Campus-Gym-Pro/src/main/java/com/campusgym/pro/entity/Slot.java
+/Users/GXA/project/Campus-Gym-Pro/src/main/java/com/campusgym/pro/service/ReservationConsumer.java
+/Users/GXA/project/Campus-Gym-Pro/src/main/java/com/campusgym/pro/service/ReservationService.java
+/Users/GXA/project/Campus-Gym-Pro/src/main/java/com/campusgym/pro/config/RabbitMQConfig.java
+/Users/GXA/project/Campus-Gym-Pro/src/main/java/com/campusgym/pro/mapper/ReservationMapper.java
+/Users/GXA/project/Campus-Gym-Pro/src/main/java/com/campusgym/pro/mapper/StadiumMapper.java
